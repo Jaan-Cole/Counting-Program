@@ -28,5 +28,5 @@ def main():
             print("Minute: ", today.minute)
             print("Second: ", today.second)
         except:
-            print("Exception!")
+            print("Sorry, But you did not enter a number(type int(integer))")
 main()
